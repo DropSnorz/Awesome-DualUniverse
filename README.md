@@ -1,10 +1,10 @@
-# awesome-dual-universe
+# Awesome-DualUniverse
 
 A curated list of awesome Lua scripts, tutorials, resources and third party tools about Dual Universe.
 
-Note that as Pre-Alpha stages are under [NDA](https://board.dualthegame.com/index.php?/topic/11688-pre-alpha-faq-and-rules/), this list may be quickly outdated with current development version. 
+Note that as Pre-Alpha/Alpha stages are under [NDA](https://board.dualthegame.com/index.php?/topic/11688-pre-alpha-faq-and-rules/), this list may be quickly outdated with current development version. 
 
-All contributions are welcome ! Process to be listed:
+All kind of contributions are welcome ! Process to be listed:
 
 * Create a Pull Request with the name of a resource, an URL and a very brief description of the content.
 * If approved, it will be added! ;)
@@ -15,8 +15,11 @@ Dual universe is still under active development. This temporary section displays
 
 ![du-rodmap](https://i.imgur.com/voeEA8d.png)
 
+* [DevDiary Playlist](https://www.youtube.com/playlist?list=PLA_lhIAGheMGtAygniJs25JDsWgxbfk6V) - Monthly videos about game development progress.
+* [Community Suggestions Trello](https://trello.com/b/Y6WNMd2S/dual-universe-community-suggestions) - A trello board tracking various concepts and suggestions made by the community.
 
-## In-game lua scripting
+
+## Lua Scripting
 This section is about Lua scripting in Dual Universe and not related to Lua general use cases. For lua specific resources, you should check [awesome-lua](https://github.com/LewisJEllis/awesome-lua#readme).
 
 ### Tutorials
