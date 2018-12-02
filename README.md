@@ -34,9 +34,10 @@ Community Lua scripts examples.
 Empty section
 ```
 
-### Resources
-Various resources about Lua scripting in game.
+### Tools and Resources
+Various tools and resources for in-game Lua scripting.
 
+* [VSCode plugin](https://marketplace.visualstudio.com/items?itemName=ciaanh.du-project) - Visual Studio Code extension to manage Lua projects for Dual Universe outside of the game.
 * [GamePedia Wiki](https://dualuniverse.gamepedia.com/Lua_Scripting) - Gamepedia wiki centralizing available informations about Dual Universe.
 * [DU DevDiary Scripting Showcase](https://www.youtube.com/watch?v=4Vrf50dZrv4) - A showcase of the scripting feature from the DU Youtube channel (2017)
 
