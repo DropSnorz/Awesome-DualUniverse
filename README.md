@@ -13,7 +13,7 @@ All kind of contributions are welcome ! Process to be listed:
 
 Dual universe is still under active development. This temporary section displays major milestones before official release.
 
-![du-rodmap](https://i.imgur.com/voeEA8d.png)
+![du-rodmap](resources/du-roadmap.png)
 
 * [DevDiary Playlist](https://www.youtube.com/playlist?list=PLA_lhIAGheMGtAygniJs25JDsWgxbfk6V) - Monthly videos about game development progress.
 * [Community Suggestions Trello](https://trello.com/b/Y6WNMd2S/dual-universe-community-suggestions) - A trello board tracking various concepts and suggestions made by the community.
