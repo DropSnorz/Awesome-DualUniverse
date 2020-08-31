@@ -9,7 +9,7 @@ All kind of contributions are welcome ! Process to be listed:
 * Create a Pull Request with the name of a resource, an URL and a very brief description of the content.
 * If approved, it will be added! ;)
 
-## Dual Universe Roadmap
+## :stars: Dual Universe Roadmap
 
 Dual universe is still under active development. This temporary section displays major milestones before official release.
 
@@ -19,37 +19,45 @@ Dual universe is still under active development. This temporary section displays
 * [Community Suggestions Trello](https://trello.com/b/Y6WNMd2S/dual-universe-community-suggestions) - A trello board tracking various concepts and suggestions made by the community.
 
 
-## Lua Scripting
+## :page_with_curl: Lua Scripting
+
 This section is about Lua scripting in Dual Universe and not related to Lua general use cases. For lua specific resources, you should check [awesome-lua](https://github.com/LewisJEllis/awesome-lua#readme).
 
 ### Tutorials
+
 Online tutorials about Lua scripting in Dual Universe. 
 
 * [Dual Universe Pre-Alpha Tutorial: Lua Scripting](https://www.youtube.com/watch?v=sbvJPuo9npE) - Youtube tutorial by Dual Universe developers which explains in-game scripting features. (2017)
 
 
-### Examples
-Community Lua scripts examples. 
+### Community Scripts
+
+Lua scripts maintained by the community.
+
 ```
 Empty section
 ```
 
-### Tools and Resources
+### Scripting Tools and Resources
+
 Various tools and resources for in-game Lua scripting.
 
 * [VSCode plugin](https://marketplace.visualstudio.com/items?itemName=ciaanh.du-project) - Visual Studio Code extension to manage Lua projects for Dual Universe outside of the game.
 * [GamePedia Wiki](https://dualuniverse.gamepedia.com/Lua_Scripting) - Gamepedia wiki centralizing available informations about Dual Universe.
 * [DU DevDiary Scripting Showcase](https://www.youtube.com/watch?v=4Vrf50dZrv4) - A showcase of the scripting feature from the DU Youtube channel (2017)
 
-## Third party tools
-Third party applications and tools for Dual Universe.
+
+## :hammer: Third party tools
+
+Third party applications and tools about Dual Universe.
 
 ```
 Empty section
 ```
 
-## Third party developer resources
-Resources for third party tools developers.
+## :beer: Developer resources
+
+Resources for third party development. (APIs, Docs, Tutorials, ...)
 
 ```
 Empty section
