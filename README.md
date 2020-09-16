@@ -63,7 +63,7 @@ Resources for third party development. (APIs, Docs, Tutorials, ...)
 Empty section
 ```
 
-## Community
+## :heart: Community
 
 * [Official Forums](https://board.dualthegame.com/) - Official Dual Universe community forums
 * [Official Discord](https://www.dualthegame.com/en/news/2018/09/10/dual-universe-official-discord-server/) - Official Discord server about Dual Universe managed by Novaquark developers. It's a really active and friendly community.
