@@ -23,20 +23,18 @@ Dual universe is still under active development. This temporary section displays
 
 This section is about Lua scripting in Dual Universe and not related to Lua general use cases. For lua specific resources, you should check [awesome-lua](https://github.com/LewisJEllis/awesome-lua#readme).
 
+### Community Scripts
+
+Lua scripts maintained by the community.
+
+#### HUD
+* [DU-Orbital-HUD](https://github.com/Dimencia/DU-Orbital-Hud) - HUD with orbital information, braking distances, and Rezoix's pitch/roll hud with some fixes 
+
 ### Tutorials
 
 Online tutorials about Lua scripting in Dual Universe. 
 
 * [Dual Universe Pre-Alpha Tutorial: Lua Scripting](https://www.youtube.com/watch?v=sbvJPuo9npE) - Youtube tutorial by Dual Universe developers which explains in-game scripting features. (2017)
-
-
-### Community Scripts
-
-Lua scripts maintained by the community.
-
-```
-Empty section
-```
 
 ### Scripting Tools and Resources
 
