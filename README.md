@@ -29,6 +29,7 @@ Lua scripts maintained by the community.
 
 #### HUD
 * [DU-Orbital-HUD](https://github.com/Dimencia/DU-Orbital-Hud) - HUD with orbital information, braking distances, and Rezoix's pitch/roll hud with some fixes 
+* [DU-FuelScreen](https://github.com/RostCS/DU-FuelScreen) - Programming board script that adaptively displays the levels of all connected fuel tanks
 
 ### Tutorials
 
