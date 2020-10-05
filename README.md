@@ -66,5 +66,6 @@ Empty section
 
 * [Official Forums](https://board.dualthegame.com/) - Official Dual Universe community forums
 * [Official Discord](https://www.dualthegame.com/en/news/2018/09/10/dual-universe-official-discord-server/) - Official Discord server about Dual Universe managed by Novaquark developers. It's a really active and friendly community.
+* [r/DualUniverse](https://www.reddit.com/r/DualUniverse/) - Official Dual Universe subreddit
 * [FR Community - DualFR](https://dualfr.org/) - News, Articles, Tutorials, Discord Server.
 
