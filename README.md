@@ -31,6 +31,11 @@ Lua scripts maintained by the community.
 * [DU-Orbital-HUD](https://github.com/Dimencia/DU-Orbital-Hud) - HUD with orbital information, braking distances, and Rezoix's pitch/roll hud with some fixes 
 * [DU-FuelScreen](https://github.com/RostCS/DU-FuelScreen) - Programming board script that adaptively displays the levels of all connected fuel tanks
 
+### Programming Board - Screens
+
+* [DU-OreMonitor](https://github.com/thespartacus29/DualUniverse-OreMonitor) - Set of LUA scripts to setup screens that display ore name, quantity in tons, % of how full a container is and status color coded based on ore % levels 
+* [Space Map Warp Calculator](https://board.dualthegame.com/index.php?/topic/20692-space-map-with-warp-cell-calculator/) -  Space map with warp calculation, displays speed and chosen destination.
+
 ### Tutorials
 
 Online tutorials about Lua scripting in Dual Universe. 
