@@ -31,7 +31,7 @@ Lua scripts maintained by the community.
 * [DU-Orbital-HUD](https://github.com/Dimencia/DU-Orbital-Hud) - HUD with orbital information, braking distances, and Rezoix's pitch/roll hud with some fixes 
 * [DU-FuelScreen](https://github.com/RostCS/DU-FuelScreen) - Programming board script that adaptively displays the levels of all connected fuel tanks
 
-### Programming Board - Screens
+#### Programming Board - Screens
 
 * [DU-OreMonitor](https://github.com/thespartacus29/DualUniverse-OreMonitor) - Set of LUA scripts to setup screens that display ore name, quantity in tons, % of how full a container is and status color coded based on ore % levels 
 * [Space Map Warp Calculator](https://board.dualthegame.com/index.php?/topic/20692-space-map-with-warp-cell-calculator/) -  Space map with warp calculation, displays speed and chosen destination.
@@ -46,6 +46,7 @@ Online tutorials about Lua scripting in Dual Universe.
 
 Various tools and resources for in-game Lua scripting.
 
+* [dual.sh - Codex](https://dual.sh/codex/) - Unofficial cripting guide and API reference. 
 * [VSCode plugin](https://marketplace.visualstudio.com/items?itemName=ciaanh.du-project) - Visual Studio Code extension to manage Lua projects for Dual Universe outside of the game.
 * [GamePedia Wiki](https://dualuniverse.gamepedia.com/Lua_Scripting) - Gamepedia wiki centralizing available informations about Dual Universe.
 * [DU DevDiary Scripting Showcase](https://www.youtube.com/watch?v=4Vrf50dZrv4) - A showcase of the scripting feature from the DU Youtube channel (2017)
@@ -55,9 +56,7 @@ Various tools and resources for in-game Lua scripting.
 
 Third party applications and tools about Dual Universe.
 
-```
-Empty section
-```
+* [dual.sh](https://dual.sh) - Collection of usefull tools: Scripting guide and reference, Calculators, Engineering tools, Map...
 
 ## :beer: Developer resources
 
