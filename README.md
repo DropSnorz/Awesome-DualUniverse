@@ -35,6 +35,7 @@ Lua scripts maintained by the community.
 
 * [DU-OreMonitor](https://github.com/thespartacus29/DualUniverse-OreMonitor) - Set of LUA scripts to setup screens that display ore name, quantity in tons, % of how full a container is and status color coded based on ore % levels 
 * [Space Map Warp Calculator](https://board.dualthegame.com/index.php?/topic/20692-space-map-with-warp-cell-calculator/) -  Space map with warp calculation, displays speed and chosen destination.
+* [Dual Universe Juvenius Floating Clock](https://github.com/juvenius/du_juvenius_floating_clock) - This LUA Code ingame clock does not uses screens or signs to display time but a method of floating number stickers that change over time. With the Aid of a programing board you can put the clock on any construct.
 
 ### Tutorials
 
