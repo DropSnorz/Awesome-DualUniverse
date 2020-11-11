@@ -37,6 +37,7 @@ Lua scripts maintained by the community.
 * [DU-FuelScreen](https://github.com/RostCS/DU-FuelScreen) - Fuel Screen script designed to automatically detect and adapt to any given tank configuration
 * [Space Map Warp Calculator](https://board.dualthegame.com/index.php?/topic/20692-space-map-with-warp-cell-calculator/) -  Space map with warp calculation, displays speed and chosen destination.
 * [Dual Universe Juvenius Floating Clock](https://github.com/juvenius/du_juvenius_floating_clock) - This LUA Code ingame clock does not uses screens or signs to display time but a method of floating number stickers that change over time. With the Aid of a programing board you can put the clock on any construct.
+* [Damage Report](https://github.com/DorianTheGrey/DU-DamageReport) - A multi-screen (and HUD) capable, touch enabled, easy to install ship damage reporting script for Dual Universe.
 
 ### Tutorials
 
