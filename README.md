@@ -50,6 +50,7 @@ Online tutorials about Lua scripting in Dual Universe.
 
 Various tools and resources for in-game Lua scripting.
 
+* [du-mocks](https://github.com/1337joe/du-mocks) - Mock objects to simulate the Dual Universe in-game lua environment. 
 * [dual.sh - Codex](https://dual.sh/codex/) - Unofficial cripting guide and API reference. 
 * [VSCode plugin](https://marketplace.visualstudio.com/items?itemName=ciaanh.du-project) - Visual Studio Code extension to manage Lua projects for Dual Universe outside of the game.
 * [GamePedia Wiki](https://dualuniverse.gamepedia.com/Lua_Scripting) - Gamepedia wiki centralizing available informations about Dual Universe.
